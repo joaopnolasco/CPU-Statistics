@@ -5,9 +5,9 @@ Código desenvolvido para ler uma base de dados fornecida e elaborar conclusões
 
 Análise feita em Python, com uso das seguintes bibliotecas e softwares:
 
-Statistics
-NumPy
-Pandas
-Matplotlib
-SciPy
-Statdisk
+- Statistics
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- Statdisk
